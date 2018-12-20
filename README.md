@@ -1,15 +1,15 @@
-# Project Name
-**Authors**: Jhon Doe (jd2545), Mark Smith (ms4568)
+Title: Life Expectancy Visualization
+Authors: Siddarth Singh(ss11341), Samarthraj Balachandra Hegde(sh4636)
+Group 1(offline)
+Description: The Life Expectancy Visualization has multiple small line graphs. Each line graph represents one country and visualizes 
+correlation between life expectancy of the country and factors such as GDP, BMI, spending on health care, schooling, number of diseases reported.
+The high quality visualization has a dropdown menu through which you can select either of the five factors. By selecting the 
+options on Dropdown menu, the visualization changes dynamically. The graphical representation will have life expectancy versus
+the factor we select through the Dropdown menu for each country. Each graphical visualization will also have a brief description
+to familarize user with the correlation in line graphs. 
 
-Group X (Online: Group Y) 
-
-![Screenhot](screenshot.jpg)
+Scrrenshot: 
 
 
-## About
-In this project we ...
-
-## More
-[DEMO](https://nyu-vis-fall2018.github.io/project-template/)
-
-[Project Descrioption](project.pdf)
+Link to Project proposal: 
+Link to demo:    
