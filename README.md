@@ -9,7 +9,9 @@ the factor we select through the Dropdown menu for each country. Each graphical 
 to familarize user with the correlation in line graphs. 
 
 Scrrenshot: 
-![Alt text](https://github.com/NYU-VIS-FALL2018/storytelling-group-1/blob/master/screenshot.jpg?raw=true "Title")
+![Alt text](https://github.com/NYU-VIS-FALL2018/storytelling-group-1/blob/master/Selection_038.jpg?raw=true "Title")
+
+
 
 [Link to Project proposal](https://github.com/NYU-VIS-FALL2018/storytelling-group-1/blob/master/proposal.pdf) 
 
